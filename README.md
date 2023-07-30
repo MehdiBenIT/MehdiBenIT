@@ -5,7 +5,7 @@
 
 ## Languages and Tools:
 <div>
-  <img width=50px src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg">&nbsp;&nbsp;&nbsp;
+  <img src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png">&nbsp;
   <img width=50px src="">&nbsp;
   <img width=50px src="">&nbsp;
