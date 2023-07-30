@@ -11,7 +11,7 @@
   <img width=75px src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg">&nbsp;&nbsp;&nbsp;
   <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png">&nbsp;
   <img width=100px src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-700x394.png">&nbsp;
-  <img width=75px src="">&nbsp;
+  <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">&nbsp;
   <img width=75px src="">&nbsp;
   <img width=75px src="">&nbsp;
   <img width=75px src="">&nbsp;  
