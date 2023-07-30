@@ -1,18 +1,15 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Mehdi!
 
-🏢 Currently working as a DevOps Engineer in Montreal!
-
+🏢 I'm currently working as a DevOps Engineer in Montreal!
+🌱 I'm currently preparing an AWS certification
+⭐ I enjoy working on AWS projects that combine automation and high availability.
+🌱 I'm currently learning Go and Kubernetes
+💬 You can ask me questions about Ansible, AWS and Linux
 
 ## Languages and Tools:
 <div>
   <img width=75px src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg">&nbsp;&nbsp;&nbsp;
   <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png">&nbsp;
-  <img width=50px src="">&nbsp;
-  <img width=50px src="">&nbsp;
-  <img width=50px src="">&nbsp;
-  <img width=50px src="">&nbsp;
-  <img width=50px src="">&nbsp;  
-  <img width=50px src="">&nbsp;  
 </div>
 
 </br>
