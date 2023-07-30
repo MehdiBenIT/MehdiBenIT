@@ -5,7 +5,7 @@
 
 ## Languages and Tools:
 <div>
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/512px-Terraform_Logo.svg.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdiFcYS0aFFfiW2eOfUsNH5xJF-ctToT9wA&usqp=CAU">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png">&nbsp;
   <img width=50px src="">&nbsp;
   <img width=50px src="">&nbsp;
