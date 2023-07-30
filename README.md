@@ -13,9 +13,9 @@
   <img width=75px src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png">&nbsp;
   <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">&nbsp;
   <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png">&nbsp;
-  <img width=75px src="">&nbsp;
-  <img width=75px src="">&nbsp;  
-  <img width=75px src="">&nbsp;  
+  <img width=100px src="https://www.liblogo.com/img-logo/ng283nb2a-nginx-logo-nginx-logo.png">&nbsp;
+  <img width=100px src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">&nbsp;  
+  <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png">&nbsp;  
 </div>
 
 </br>
