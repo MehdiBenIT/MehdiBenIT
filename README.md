@@ -12,7 +12,6 @@
 - 💬 You can ask me questions about **Ansible**, **Terraform** and **Linux**
 
 ## Languages and Tools:
-<div>
   <p align="left"> 
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg" alt="ansible" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg" alt="terraform" width="40" height="40"/>
@@ -24,16 +23,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p>
-</div>
-
-</br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdibenit&show_icons=true&locale=en&layout=compact" alt="mehdibenit" /></p> 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mehdibenit&show_icons=true&locale=en" alt="mehdibenit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdibenit&show_icons=true&locale=en&layout=compact" alt="mehdibenit" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdibenit&" alt="mehdibenit" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdibenit&show_icons=true&locale=en" alt="mehdibenit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdibenit&" alt="mehdibenit" /></p>
 
 
 <!--
