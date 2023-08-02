@@ -34,9 +34,6 @@
 </br>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdibenit&show_icons=true&locale=en&layout=compact" alt="mehdibenit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdibenit&show_icons=true&locale=en" alt="mehdibenit" /></p>
