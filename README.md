@@ -13,10 +13,7 @@
 
 ## Languages and Tools:
 <div>
-  <img width=75px src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg">&nbsp;
-  <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png">&nbsp;
   <p align="left"> 
-    <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg" alt="ansible" width="40" height="40"/> </a> 
     <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg" alt="ansible" width="40" height="40"/> </a> 
     <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg" alt="terraform" width="40" height="40"/> </a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
