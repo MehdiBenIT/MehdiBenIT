@@ -13,22 +13,20 @@
 
 ## Languages and Tools:
 <div>
-  <img width=75px src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-700x394.png">&nbsp;
-  <img width=75px src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg">&nbsp;&nbsp;&nbsp;
-  <img width=75px src="https://extremeautomation.io/static/9257437713a85f3e9e5cb6e7ff7bb507/ansible.svg">&nbsp;
-  <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">&nbsp;
-  <img width=75px src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png">&nbsp;
-  <img width=75px src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png">&nbsp;  
-  <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png">&nbsp;  
+  <img width=75px src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg">&nbsp;
   <img width=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png">&nbsp;
   <p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>      <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
+    <a href="https://go.dev/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg" alt="ansible" width="40" height="40"/> </a> 
+    <a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg" alt="ansible" width="40" height="40"/> </a> 
+    <a href="https://www.terraform.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg" alt="terraform" width="40" height="40"/> </a> 
+    <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/docker.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://golang.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
 </div>
 
 </br>
