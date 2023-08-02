@@ -16,7 +16,7 @@
   <p align="left"> 
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ansible.svg" alt="ansible" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terraform.svg" alt="terraform" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="images/aws.png" alt="aws" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/docker.svg" alt="docker" width="40" height="40"/>
