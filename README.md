@@ -5,7 +5,7 @@
   
 - 🌱 I'm currently preparing an **AWS certification**
   
-- ⭐ I enjoy working on AWS projects that combine **automation** and **high availability**
+- ♥️ I love working on **automation** and **high availability** projects!
 
 - 🌱 I'm currently learning **GO** and **AWS**
   
