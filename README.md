@@ -31,8 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdibenit&show_icons=true&locale=en" alt="mehdibenit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdibenit&" alt="mehdibenit" /></p>
-[<a href="https://wakatime.com/@c1e2eee6-78fd-415c-b49c-c8dbd0822029"><img src="https://wakatime.com/badge/user/c1e2eee6-78fd-415c-b49c-c8dbd0822029.svg" alt="Total time coded since Dec 20 2020" /></a>
-](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+
+https://wakatime.com/badge/user/c1e2eee6-78fd-415c-b49c-c8dbd0822029.svg
 <!--
 **MehdiBenIT/MehdiBenIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
