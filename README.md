@@ -7,7 +7,7 @@
   
 - ♥️ I love working on **automation** and **high availability** projects!
 
-- 🌱 I'm currently learning **GO** and **AWS**
+- ✍️ I read articles on my DevOps Journey here : https://mehdibennouar.hashnode.dev/
   
 - 💬 You can ask me questions about **Ansible**, **Terraform** and **Linux**
 
