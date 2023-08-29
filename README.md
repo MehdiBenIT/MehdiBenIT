@@ -5,7 +5,7 @@
   
 - 🌱 I'm currently preparing the **AWS Solutions Architech Associate certification (AWS-SAA)** !
   
-- ♥️ I love working on **automation** and *high availability** projects!
+- ♥️ I love working on **automation** and **high availability** projects!
 
 - 🌱 I'm currently learning **GO** and **AWS**
   
