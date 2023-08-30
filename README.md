@@ -23,7 +23,7 @@
     <img src="images/nginx.png" alt="nginx" width="40" height="40"/></p>
 
 
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehdibenit&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehdibenit&layout=compact&langs_count=20"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdibenit&show_icons=true&locale=en&layout=compact" alt="mehdibenit" /></p>
 
