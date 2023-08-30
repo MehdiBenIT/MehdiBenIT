@@ -21,7 +21,13 @@
     <img src="images/go.png" alt="go" width="40" height="40"/>
     <img src="images/linux.png" alt="linux" width="40" height="40"/>
     <img src="images/nginx.png" alt="nginx" width="40" height="40"/>
-    </p>
+    </p>   
+    <a href="https://github.com/jasongaylord/github-stats">
+   
+![](https://github.com/mehdibenit/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mehdibenit/github-stats/blob/master/generated/languages.svg)
+
+</a>
     <div style="display:flex;">
     <div style="flex:1;">
       <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehdibenit&layout=compact&langs_count=20"/>
