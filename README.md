@@ -22,24 +22,12 @@
     <img src="images/linux.png" alt="linux" width="40" height="40"/>
     <img src="images/nginx.png" alt="nginx" width="40" height="40"/>
     </p>   
-    <a href="https://github.com/mehdibenit/github-stats">
-   
-![](https://github.com/mehdibenit/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mehdibenit/github-stats/blob/master/generated/languages.svg)
-
-</a>
-    <div style="display:flex;">
-    <div style="flex:1;">
       <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehdibenit&layout=compact&langs_count=20"/>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehdibenit&show_icons=true&locale=en" alt="mehdibenit" />
-    </p><p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehdibenit&show_icons=true&locale=en" alt="mehdibenit" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdibenit" alt="mehdibenit" /></p>
       <a href="https://wakatime.com/@c1e2eee6-78fd-415c-b49c-c8dbd0822029"><img src="https://wakatime.com/badge/user/c1e2eee6-78fd-415c-b49c-c8dbd0822029.svg" alt="Total time coded since Dec 20 2020" /></a>
-    </div>
-      <div style="flex:1;"><a href="https://app.daily.dev/MehdiBenIT">
         <img src="https://api.daily.dev/devcards/75984fc046cb4730a12f1a15c5e719ca.png?r=5b7" width="400" alt="MehdiBenIT's Dev Card"/></a>
-      </div>
-    </div>
+     
 
 <!--
 **MehdiBenIT/MehdiBenIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
