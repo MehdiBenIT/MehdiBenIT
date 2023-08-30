@@ -22,7 +22,7 @@
     <img src="images/linux.png" alt="linux" width="40" height="40"/>
     <img src="images/nginx.png" alt="nginx" width="40" height="40"/>
     </p>   
-    <a href="https://github.com/jasongaylord/github-stats">
+    <a href="https://github.com/mehdibenit/github-stats">
    
 ![](https://github.com/mehdibenit/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mehdibenit/github-stats/blob/master/generated/languages.svg)
