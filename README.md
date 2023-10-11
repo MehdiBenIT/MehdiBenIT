@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer from france Living in Canada</h3>
 
 - 🏢 I'm currently working as a **DevOps Engineer** in **Montreal**!
-- 🌱 I'm currently preparing the **AWS Solutions Architech Associate certification (AWS-SAA)** !
+- 🌱 I'm currently preparing the **AWS Solutions Architect Associate certification (AWS-SAA)** !
 - ♥️ I love working on **automation** and **high availability** projects!
 - 💬 You can ask me questions about **Ansible**, **Terraform** and **Linux**
 - ✍️ I read articles on my DevOps Journey here : https://mehdibennouar.hashnode.dev/
